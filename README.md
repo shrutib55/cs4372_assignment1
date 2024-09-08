@@ -1,5 +1,8 @@
 # cs4372_assignment1
 
+## Shruti Bindingnavile - sxb180099
+## William Chandra - wac200001
+
 ### The code should run as is. It includes the following packages
 
 #### import pandas as pd
